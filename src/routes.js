@@ -1,8 +1,8 @@
 import { Route, Routes } from "react-router-dom";
 import AvailableRoutes from "./pages/AvailableRoutes";
 import RouteInformation from "./pages/RouteInformation";
-import TicketPurchase from "./pages/TicketPurchase";
-import Confirmation from "./pages/Confirmation";
+import TicketPurchase from "./pages/TicketPurchasePage";
+import Confirmation from "./pages/ConfirmationPage";
 
 function App() {
   return (
